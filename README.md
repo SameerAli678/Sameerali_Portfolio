@@ -36,7 +36,3 @@ A premium portfolio showcase built with React, Vite, and Tailwind CSS.
 - **Components**: [shadcn/ui](https://ui.shadcn.com/)
 - **Typography**: [Inter](https://fonts.google.com/specimen/Inter)
 - **Icons**: [Lucide React](https://lucide.dev/)
-
-## License
-
-MIT
