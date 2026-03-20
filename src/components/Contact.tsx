@@ -4,6 +4,9 @@ import PhoneInput from "react-phone-input-2";
 import "react-phone-input-2/lib/style.css";
 import { toast } from "sonner";
 
+// ===================================
+// WhatsApp Icon Component
+// ===================================
 const WhatsAppIcon = ({ className }: { className?: string }) => (
   <svg
     viewBox="0 0 24 24"
@@ -15,24 +18,27 @@ const WhatsAppIcon = ({ className }: { className?: string }) => (
   </svg>
 );
 
+// ===================================
+// Contact data
+// ===================================
 const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "sameer.ali@example.com",
-    href: "mailto:sameer.ali@example.com",
+    value: "sameeralidev678@gmail.com",
+    href: "mailto:sameeralidev678@gmail.com",
   },
   {
     icon: Phone,
     label: "Phone",
-    value: "+92 0000000000",
-    href: "tel:+920000000000",
+    value: "+92 3151265238",
+    href: "tel:+923151265238",
   },
   {
     icon: WhatsAppIcon,
     label: "WhatsApp",
-    value: "+92 0000000000",
-    href: "https://wa.me/920000000000",
+    value: "+92 3151265238",
+    href: "https://wa.me/923151265238",
   },
   { icon: MapPin, label: "Location", value: "Karachi, Pakistan" },
 ];
