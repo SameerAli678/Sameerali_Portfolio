@@ -137,7 +137,10 @@ const Contact = () => {
                   style={{ transitionDelay: `${300 + index * 100}ms` }}
                 >
                   <div className="w-12 h-12 bg-charcoal flex items-center justify-center border border-border">
-                    <item.icon className="w-5 h-5 text-accent" />
+                    <item.icon
+                      className="w-5 h-5 text-accent"
+                      target="_blank"
+                    />
                   </div>
                   <div>
                     <p className="text-xs text-muted-foreground uppercase tracking-wider mb-1">
