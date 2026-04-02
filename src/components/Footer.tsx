@@ -1,11 +1,16 @@
-import { Github, Linkedin } from "lucide-react";
+import { Linkedin, Instagram } from "lucide-react";
 
 const socialLinks = [
-  { icon: Github, href: "https://github.com/SameerAli678", label: "GitHub" },
+  // { icon: Github, href: "https://github.com/SameerAli678", label: "GitHub" },
   {
     icon: Linkedin,
     href: "https://www.linkedin.com/in/sameer-ali-frontend-developer/",
     label: "LinkedIn",
+  },
+  {
+    icon: Instagram,
+    href: "https://www.instagram.com/sameer_ali_frontend_developer/",
+    label: "Instagram",
   },
 ];
 

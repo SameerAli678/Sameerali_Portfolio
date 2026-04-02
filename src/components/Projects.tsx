@@ -129,12 +129,11 @@ const Projects = () => {
           }`}
         >
           <a
-            href="https://github.com/sameerali"
-            target="_blank"
+            href="#contact"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 px-8 py-4 border border-border text-foreground font-medium uppercase tracking-widest text-sm hover:border-accent hover:text-accent transition-all duration-300 group"
           >
-            View All Projects
+            Hire me
             <ArrowUpRight className="w-4 h-4 transition-transform duration-300 group-hover:translate-x-1 group-hover:-translate-y-1" />
           </a>
         </div>
