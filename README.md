@@ -6,6 +6,7 @@ A premium portfolio showcase built with React, Vite, and Tailwind CSS.
 
 ### Prerequisites
 Sameer Ali
+Sameer Ali
 
 - Node.js (v18 or higher)
 - pnpm
